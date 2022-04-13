@@ -1,3 +1,3 @@
 1. First check file is okey or not, using command line `vagrant validate`
-2. up the all machine using command line `vagrant up`
+2. Up the all machine using command line `vagrant up`
 3. when choosing machine, need use `vagrant ssh @hostname`
